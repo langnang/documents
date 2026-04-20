@@ -1,0 +1,10 @@
+{
+  "_player": {
+    "id": 0,
+    "name": "Player1",
+    "score": 0
+  },
+  "players": [{}],
+  "inventories": [],
+  "warehouse": []
+}

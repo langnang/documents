@@ -8,5 +8,8 @@
   "usecases": ["Run Llama 2, Mistral, or other open-source LLMs completely offline.", "Build AI-powered applications that use local models via REST API.", "Experiment with different AI models without API costs.", "Create a private AI assistant for coding, writing, or analysis."],
   "website": "https://ollama.ai",
   "dependencies": [],
-  "notes": ["Requires adequate GPU (VRAM) or CPU for acceptable performance", "Models downloaded on first use - expect several GB per model", "API available at port 11434 for integration with other apps"]
+  "notes": ["Requires adequate GPU (VRAM) or CPU for acceptable performance", "Models downloaded on first use - expect several GB per model", "API available at port 11434 for integration with other apps"],
+  "versions": {
+    "latest": []
+  }
 }

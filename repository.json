@@ -1,4 +1,6 @@
 {
+  "name": "langnang/documents",
+  "title": "Documents·文档记录",
   "dependencies": {},
   "styles": {},
   "scripts": {},
@@ -7,90 +9,59 @@
     "editable": false,
     "styles": {},
     "scripts": {},
-    "metas": {},
-    "contents": {},
-    "links": {
-      "AMiner": {
-        "name": "AMiner",
-        "url": "https://www.aminer.cn/",
-        "description": "学术搜索与分析",
-        "keywords": "示例"
+    "metas": {
+      "langnang": {
+        "title": "Langnang",
+        "type": "category",
+        "links": [
+          {
+            "name": "langnang/langnang.github.io",
+            "url": "https://langnang.github.io/"
+          },
+          {
+            "name": "langnang/langnang",
+            "url": "https://langnang.github.io/langnang/"
+          },
+          {
+            "name": "langnang/references",
+            "url": "https://langnang.github.io/references/"
+          },
+          {
+            "name": "langnang/manuals",
+            "url": "https://langnang.github.io/manuals/"
+          }
+        ]
       },
-      "X-MOL": {
-        "name": "X-MOL",
-        "url": "https://www.x-mol.com/",
-        "description": "学术资讯平台",
-        "keywords": "示例"
+      "algorithm": {
+        "title": "数据结构与算法",
+        "type": "category",
+        "links": [
+          {
+            "name": "Sorting",
+            "description": "排序算法",
+            "url": ""
+          }
+        ]
       },
-      "Nature": {
-        "name": "Nature",
-        "url": "https://www.nature.com/",
-        "description": "",
-        "keywords": ""
+      "computer_network": {
+        "title": "计算机网络",
+        "type": "category",
+        "links": []
       },
-      "Science": {
-        "name": "Science",
-        "url": "https://www.science.org/",
-        "description": "",
-        "keywords": ""
+      "web": {
+        "title": "Web",
+        "type": "category",
+        "links": []
       },
-      "张希": {
-        "name": "张希",
-        "url": "http://zhangxigroup.com/",
-        "description": "清华大学",
-        "keywords": "超分子"
-      },
-      "裴坚": {
-        "name": "裴坚",
-        "url": "http://www.chem.pku.edu.cn/pei/",
-        "description": "北京大学",
-        "keywords": "有机电子"
-      },
-      "鲍哲楠": {
-        "name": "鲍哲楠",
-        "url": "http://baogroup.stanford.edu/",
-        "description": "斯坦福大学",
-        "keywords": "柔性电子"
+      "server": {
+        "title": "Server",
+        "type": "category",
+        "links": []
       }
     },
+    "contents": {},
+    "links": {},
     "files": {},
-    "relationships": [
-      {
-        "meta": "useful",
-        "link": "AMiner"
-      },
-      {
-        "meta": "useful",
-        "link": "X-MOL"
-      },
-      {
-        "meta": "useful",
-        "link": "Nature"
-      },
-      {
-        "meta": "useful",
-        "link": "X-MOL"
-      },
-      {
-        "meta": "journals",
-        "link": "Nature"
-      },
-      {
-        "meta": "journals",
-        "link": "Science"
-      },
-      {
-        "meta": "scholars",
-        "link": "张希"
-      },
-      {
-        "meta": "scholars",
-        "link": "裴坚"
-      },
-      {
-        "meta": "scholars",
-        "link": "鲍哲楠"
-      }
-    ]
+    "relationships": []
   }
 }

@@ -1,3 +1,5 @@
+- Algorithm
+  - Sorting
 - Web
   - HTML
   - CSS

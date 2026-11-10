@@ -57,6 +57,10 @@
         "title": "Server",
         "type": "category",
         "links": []
+      },
+      "operating_system": {
+        "title": "操作系统",
+        "type": "category"
       }
     },
     "contents": {},

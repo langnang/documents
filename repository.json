@@ -32,6 +32,11 @@
           }
         ]
       },
+      "standard": {
+        "title": "标准规范",
+        "type": "category",
+        "links": []
+      },
       "algorithm": {
         "title": "数据结构与算法",
         "type": "category",
